@@ -12,6 +12,6 @@ namespace Stone
 	}
 	void Application::Run()
 	{
-		printf("Checking for Stone");
+		printf("Checking for Stone\n");
 	}
 }
